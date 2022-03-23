@@ -15,3 +15,7 @@ The channel ids and bot token are stored in individual .txt files, because you s
 Good luck!
 
 PS: Its developed quick and dirty while watching netflix. Should work smooth nevertheless.
+
+Found appointment will look like this:
+
+<img width="563" alt="grafik" src="https://user-images.githubusercontent.com/99338575/159779691-a68a5a93-72bf-4ed3-acbe-3e9676a43a34.png">
